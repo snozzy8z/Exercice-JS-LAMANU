@@ -1,0 +1,18 @@
+#container-fluid{
+}
+
+#container-2 {
+    padding-top: 450px;
+}
+
+button {
+    width: 10%;
+    height: 10%;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+#compteur{
+    text-align:start ;
+}
